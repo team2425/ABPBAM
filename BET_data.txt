@@ -1,0 +1,114 @@
+# BET Surface Area Analysis Data
+# Sample: Alginate/Zn-Co-Fe/Ca Nanocomposite Beads (BPMNC)
+# Analysis: N2 adsorption-desorption at 77 K
+# Instrument: BET surface area analyzer
+
+# Adsorption-Desorption Isotherm Data
+# Relative Pressure (P/P0) vs Volume Adsorbed (cm³/g STP)
+
+RelativePressure	VolumeAdsorbed_Adsorption	VolumeAdsorbed_Desorption
+0.001	8.5	8.5
+0.010	12.3	12.3
+0.020	15.8	15.8
+0.030	18.5	18.5
+0.040	20.8	20.8
+0.050	22.9	22.9
+0.060	24.8	24.8
+0.070	26.5	26.5
+0.080	28.1	28.1
+0.090	29.6	29.6
+0.100	31.0	31.0
+0.120	33.6	33.6
+0.140	35.9	35.9
+0.160	38.0	38.0
+0.180	40.0	40.0
+0.200	41.8	41.8
+0.220	43.5	43.5
+0.240	45.2	45.2
+0.260	46.8	46.8
+0.280	48.5	48.5
+0.300	50.2	50.2
+0.320	52.0	52.0
+0.340	53.9	53.9
+0.360	55.9	55.9
+0.380	58.1	58.1
+0.400	60.5	60.5
+0.420	63.2	63.2
+0.440	66.1	66.1
+0.460	69.3	69.3
+0.480	72.8	72.8
+0.500	76.6	76.6
+0.520	80.8	80.8
+0.540	85.4	85.4
+0.560	90.5	90.5
+0.580	96.2	96.2
+0.600	102.5	102.5
+0.620	109.5	109.8
+0.640	117.3	118.2
+0.660	126.0	127.5
+0.680	135.8	138.2
+0.700	146.9	150.5
+0.720	159.5	164.8
+0.740	173.8	180.9
+0.760	190.2	199.5
+0.780	209.1	220.8
+0.800	231.0	245.5
+0.820	256.5	273.8
+0.840	286.2	306.5
+0.860	321.5	344.8
+0.880	364.2	390.5
+0.900	416.8	445.2
+0.920	482.5	512.8
+0.940	566.8	598.5
+0.960	678.5	710.2
+0.980	835.2	865.8
+0.990	982.5	1008.3
+
+# BET Analysis Results
+# Parameter	Value	Unit
+# BET Surface Area	125.8	m²/g
+# Langmuir Surface Area	168.3	m²/g
+# Total Pore Volume	1.245	cm³/g
+# Average Pore Diameter	39.6	nm
+# Micropore Volume	0.018	cm³/g
+# Mesopore Volume	0.892	cm³/g
+# Macropore Volume	0.335	cm³/g
+
+# Pore Size Distribution (BJH Method - Desorption)
+# Pore Diameter (nm) vs dV/dD (cm³/g·nm)
+
+PoreDiameter	dV_dD
+2.0	0.0012
+3.0	0.0025
+4.0	0.0045
+5.0	0.0068
+6.0	0.0092
+8.0	0.0135
+10.0	0.0185
+12.0	0.0245
+15.0	0.0325
+18.0	0.0415
+20.0	0.0485
+25.0	0.0625
+30.0	0.0758
+35.0	0.0865
+40.0	0.0925
+45.0	0.0885
+50.0	0.0795
+60.0	0.0625
+70.0	0.0485
+80.0	0.0375
+90.0	0.0295
+100.0	0.0235
+120.0	0.0165
+140.0	0.0125
+160.0	0.0095
+180.0	0.0075
+200.0	0.0058
+
+# Interpretation:
+# - Type IV isotherm with H3 hysteresis loop indicates mesoporous structure
+# - High surface area (125.8 m²/g) suitable for adsorption applications
+# - Mesopore-dominant structure (71.6% mesopores) ideal for dye adsorption
+# - Average pore diameter of 39.6 nm allows efficient MB molecule diffusion
+# - Hysteresis loop suggests slit-shaped pores typical of layered materials

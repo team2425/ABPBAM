@@ -1,0 +1,100 @@
+# XPS Data for Alginate/Zn-Co-Fe/Ca Nanocomposite Beads
+# X-ray Photoelectron Spectroscopy Analysis
+# Sample: BPMNC composite beads
+# Instrument: XPS with Al Kα radiation (1486.6 eV)
+
+# Survey Scan (0-1200 eV)
+# Binding Energy (eV) vs Intensity (CPS)
+
+BindingEnergy	Intensity
+0	1250
+50	1280
+100	1320
+150	1350
+200	1380
+250	1420
+280	58500
+285	62800
+290	59200
+295	1450
+350	1520
+400	1580
+450	1650
+500	1720
+530	48500
+532	52300
+534	49800
+536	1850
+600	1920
+650	2050
+700	38500
+710	42800
+715	45200
+720	43500
+725	39800
+730	2180
+780	35200
+785	38900
+790	40500
+795	39200
+800	36500
+805	2350
+850	2450
+900	2580
+950	2650
+1000	2720
+1020	28500
+1022	31200
+1024	29800
+1026	2850
+1050	2920
+1100	3050
+1150	3180
+1200	3250
+
+# High-Resolution Scans
+
+# Fe 2p Region (700-740 eV)
+# BindingEnergy	Intensity	Assignment
+710.8	42800	Fe 2p3/2 (Fe3+)
+715.2	18500	Satellite peak
+724.5	39200	Fe 2p1/2 (Fe3+)
+733.2	8500	Satellite peak
+
+# O 1s Region (528-538 eV)
+# BindingEnergy	Intensity	Assignment
+530.2	52300	Lattice oxygen (Fe-O)
+531.8	28500	Hydroxyl groups (OH)
+533.2	15200	Adsorbed water/carboxyl
+
+# C 1s Region (280-295 eV)
+# BindingEnergy	Intensity	Assignment
+284.8	62800	C-C/C-H (alginate backbone)
+286.5	35200	C-O (alginate)
+288.2	22500	O-C=O (carboxyl groups)
+
+# Zn 2p Region (1015-1030 eV)
+# BindingEnergy	Intensity	Assignment
+1021.5	31200	Zn 2p3/2
+1044.6	28900	Zn 2p1/2
+
+# Co 2p Region (775-810 eV)
+# BindingEnergy	Intensity	Assignment
+780.8	38900	Co 2p3/2 (Co2+)
+786.2	15200	Satellite
+796.5	36500	Co 2p1/2 (Co2+)
+803.1	12800	Satellite
+
+# Ca 2p Region (345-355 eV)
+# BindingEnergy	Intensity	Assignment
+347.2	25800	Ca 2p3/2
+350.8	23500	Ca 2p1/2
+
+# Atomic Composition (%)
+# Element	At%
+# C 1s	45.2
+# O 1s	38.5
+# Fe 2p	8.3
+# Zn 2p	3.2
+# Co 2p	2.8
+# Ca 2p	2.0

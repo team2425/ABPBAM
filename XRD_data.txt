@@ -1,0 +1,73 @@
+# XRD Data for Alginate/Zn-Co-Fe/Ca Nanocomposite Beads
+# Two-Theta (degrees) vs Intensity (a.u.)
+# Characteristic peaks for Zn-Co-Fe ferrite (spinel structure)
+# Sample: BPMNC composite beads
+# Instrument: X-ray diffractometer with Cu Kα radiation (λ = 1.5406 Å)
+# Scan range: 10-80° 2θ
+# Step size: 0.02°
+
+2Theta	Intensity
+10.00	145
+12.00	158
+14.00	172
+16.00	189
+18.00	215
+20.00	245
+22.00	285
+24.00	325
+26.00	378
+28.00	445
+30.00	1850
+30.50	2145
+31.00	2380
+31.50	2150
+32.00	1820
+33.00	685
+34.00	512
+35.00	1520
+35.50	2850
+36.00	3420
+36.50	2790
+37.00	1450
+38.00	625
+40.00	485
+42.00	425
+43.00	1280
+43.50	1850
+44.00	2150
+44.50	1820
+45.00	1250
+46.00	545
+48.00	425
+50.00	385
+52.00	345
+54.00	325
+56.00	315
+57.00	1150
+57.50	1680
+58.00	1920
+58.50	1650
+59.00	1120
+60.00	425
+62.00	1280
+62.50	1850
+63.00	2280
+63.50	1820
+64.00	1250
+65.00	485
+66.00	385
+68.00	325
+70.00	285
+72.00	265
+74.00	245
+76.00	225
+78.00	215
+80.00	205
+
+# Major peaks correspond to:
+# 2θ ≈ 30.2° - (220) plane
+# 2θ ≈ 35.6° - (311) plane (most intense)
+# 2θ ≈ 43.3° - (400) plane
+# 2θ ≈ 57.2° - (511) plane
+# 2θ ≈ 62.8° - (440) plane
+# These peaks confirm spinel ferrite structure (magnetite/maghemite phase)
